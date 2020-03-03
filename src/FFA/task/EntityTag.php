@@ -50,7 +50,7 @@ class EntityTag extends Task
                     foreach($this->plugin->players as $player){
                         $i++;
 					}				
-					$entity->setNameTag($this->plugin->getConfig()->get("title_npc").str_replace("%count", $i, );
+					$entity->setNameTag("FFA"."\n".$i." players"."\nTap to join");
                     $entity->getInventory()->setHeldItemIndex(0);
                     $entity->setNameTagAlwaysVisible(true);
                     $this->sendMovement($entity);
