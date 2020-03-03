@@ -16,7 +16,7 @@
  * limitations under the License.
  */
  
-namespace FFA\Task;
+namespace FFA\task;
 
 use pocketmine\scheduler\Task;
 use FFA\Main;
