@@ -1,0 +1,33 @@
+---
+
+########################
+# Plugin  FREE    #
+# Plugin FFA by DragoVN#
+# Setup for arena      #
+########################
+
+# Setup for arena
+arena: "FFA"
+nameserver: "§l§cName Server"
+
+# Armor for players
+leggings: 312
+boots: 313
+helmet: 310
+chestplate: 311
+
+# Items for players
+items: 
+    - ['276', '0', '1']   
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+    - ['438', '22', '1']
+...

@@ -1,0 +1,11 @@
+name: CustomFFA
+main: FFA\Main
+version: 1.2.3
+description: Plugin FFA free for PMMP.
+author: DragoVND
+api: [3.0.0]
+
+commands:
+ ffa:
+  description: FFA commands.
+  default: true
