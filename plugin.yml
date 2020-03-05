@@ -2,7 +2,7 @@ name: CustomFFA
 main: FFA\Main
 version: 1.2.3_BETA
 description: Plugin FFA free for PMMP.
-author: DragoVND
+author: DragoVN
 api: [3.0.0]
 
 commands:
